@@ -20,7 +20,7 @@ Thanks again to [Hacking with Swift](https://www.hackingwithswift.com) for provi
 
 ## Screenshots
 
-<img src="(https://user-images.githubusercontent.com/79545798/278840193-3ca14aa1-d982-48ce-9675-72d73d95d0df.png)" alt="Screenshot of WeSplit App" width="300">
+
 
 ## What I Learned
 
