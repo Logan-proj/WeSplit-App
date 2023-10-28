@@ -20,13 +20,13 @@ Thanks again to [Hacking with Swift](https://www.hackingwithswift.com) for provi
 
 ## Screenshots
 
-<img src="[URL_TO_THE_IMAGE](https://user-images.githubusercontent.com/79545798/278840193-3ca14aa1-d982-48ce-9675-72d73d95d0df.png)" alt="Screenshot of WeSplit App" width="300">
+<img src="(https://user-images.githubusercontent.com/79545798/278840193-3ca14aa1-d982-48ce-9675-72d73d95d0df.png)" alt="Screenshot of WeSplit App" width="300">
 
 ## What I Learned
 
 During the development of the WeSplit app, I gained several valuable insights and lessons:
 
-- **SwiftUI Basics**: I became familiar with fundamental SwiftUI components such as `Form`, `Section`, `Picker`, and `NavigationLink`. I learned how to structure UI elements within SwiftUI's declarative syntax effectively.
+- **SwiftUI Basics**: I became familiar with fundamental SwiftUI components such as `Form,` `Section,` `Picker,` and `NavigationLink.` I learned how to structure UI elements within SwiftUI's declarative syntax effectively.
 - **State and Binding**: I understood the power of property wrappers such as `@State` and `@Binding`. I grasped how they enable data flow and communication between different views, ensuring a smooth user experience and dynamic UI updates.
 - **Navigation**: I delved into SwiftUI's navigation system, particularly how to navigate between views using `NavigationLink` and how to manage the navigation stack.
 - **UI Customization**: I explored different picker styles and learned how to switch from a segmented control to a more detailed screen, giving users a broader range of choices.
