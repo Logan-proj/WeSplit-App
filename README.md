@@ -46,7 +46,7 @@ During the development of the WeSplit app, I gained several valuable insights an
 
 1. Clone the repo:
 ```sh
-git clone https://github.com/your_username/WeSplit.git
+https://github.com/Logan-proj/WeSplit-App.git
 ```
 2. Open the project in Xcode.
 3. Build and run the app on the desired simulator or device.
